@@ -1,0 +1,22 @@
+U001,student1,pass123,hoss123,hosajd@uni.edu,012334566
+U002,prof1,prof123,proo,proo45,55678
+U003,student3,pass789,Student
+U004,student4,pass101,Student
+U005,student5,pass112,Student
+U006,student6,pass131,Student
+U007,student7,pass415,Student
+U008,student8,pass161,Student
+U009,student9,pass188,Student
+U010,student10,pass919,Student
+U011,prof1,prof123,Faculty
+U012,prof2,prof456,Faculty
+U013,prof3,prof789,Faculty
+U014,prof4,prof101,Faculty
+U015,prof5,prof112,Faculty
+U016,prof6,prof131,Faculty
+U017,prof7,prof415,Faculty
+U018,prof8,prof161,Faculty
+U019,prof9,prof188,Faculty
+U020,prof10,prof919,Faculty
+
+304,newuser,newpass,New User,newuser@uni.edu,777777777,

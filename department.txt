@@ -1,0 +1,5 @@
+CS,Computer Science
+MATH,Mathematics
+PHYS,Physics
+ENG,English
+ENGR,Engineering

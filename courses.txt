@@ -1,0 +1,5 @@
+CS101,Introduction to Programming,3,None,Computer Science
+MATH101,Calculus I,4,None,Mathematics
+PHYS101,General Physics,3,None,Physics
+ENG101,English Composition,3,None,English
+CS201,Data Structures,4,CS101,Computer Sciencessh2,hdks,skgvjf,3

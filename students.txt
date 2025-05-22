@@ -1,0 +1,13 @@
+S2023001,student1,pass123,John Doe,john@uni.edu,123456789,2023-09-01,Active
+S2023002,student2,pass456,Sarah Johnson,sarah@uni.edu,222222222,2023-09-01,Active
+S2023003,student3,pass789,Ahmed Mohamed,ahmed@uni.edu,333333333,2023-09-01,Active
+S2023004,student4,pass101,Maria Garcia,maria@uni.edu,444444444,2023-09-01,Active
+S2023005,student5,pass112,Lee Chen,lee@uni.edu,555555555,2023-09-01,Active
+S2023006,student6,pass131,Emma Wilson,emma@uni.edu,666666666,2023-09-01,Active
+S2023007,student7,pass415,Mohamed Ali,mohamed@uni.edu,777777777,2023-09-01,Active
+S2023008,student8,pass161,Yuki Tanaka,yuki@uni.edu,888888888,2023-09-01,Active
+S2023009,student9,pass188,David Kim,david@uni.edu,999999999,2023-09-01,Active
+S2023010,student10,pass919,Fatima Zahra,fatima@uni.edu,101010101,2023-09-01,Active
+
+
+

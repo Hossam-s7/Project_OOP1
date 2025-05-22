@@ -1,0 +1,4 @@
+F1001,Dr. Ahmed Ali,MATH101  
+F2002,Dr. Sara Mohamed,PHY202  
+F3003,Dr. Ali,ENG105  
+F4004,Dr. Zahra,CHEM110
